@@ -27,5 +27,6 @@ namespace Business.Constants
         public static string UserAdded = "Kullanıcı eklendi";
 
         public static string CategoryLimitExceded { get; internal set; }
+        public static string CategoryAdded = "Kategori Eklendi";
     }
 }
